@@ -1,0 +1,14 @@
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\bin\Debug\net6.0\TucRunningSimulator2024.exe
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\bin\Debug\net6.0\TucRunningSimulator2024.deps.json
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\bin\Debug\net6.0\TucRunningSimulator2024.runtimeconfig.json
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\bin\Debug\net6.0\TucRunningSimulator2024.dll
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\bin\Debug\net6.0\TucRunningSimulator2024.pdb
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\obj\Debug\net6.0\TucRunningSimulator2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\obj\Debug\net6.0\TucRunningSimulator2024.AssemblyInfoInputs.cache
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\obj\Debug\net6.0\TucRunningSimulator2024.AssemblyInfo.cs
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\obj\Debug\net6.0\TucRunningSimulator2024.csproj.CoreCompileInputs.cache
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\obj\Debug\net6.0\TucRunningSimulator2024.dll
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\obj\Debug\net6.0\refint\TucRunningSimulator2024.dll
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\obj\Debug\net6.0\TucRunningSimulator2024.pdb
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\obj\Debug\net6.0\TucRunningSimulator2024.genruntimeconfig.cache
+C:\Users\kosra\OneDrive\Skrivbord\Skola\GrundProgrammering\EnkelInputOutput\TucRunningSimulator2024\TucRunningSimulator2024\obj\Debug\net6.0\ref\TucRunningSimulator2024.dll
